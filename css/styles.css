@@ -1,0 +1,29 @@
+
+button{
+  font-size: 30px;
+}
+
+#answer{
+  background-color: orange;
+}
+
+#beWater{
+  background-color: yellow;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+#displayQuotes{
+  background-color: salmon;
+}
+
+/*exercise 7*/
+
+.originalState {
+    display: none;
+}
+
+.showMessageClass {    
+    font-size: 25px;
+    display: block;
+}
